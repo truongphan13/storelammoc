@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Bình luận cho STORE	</title>
-	<atom:link href="http://localhost/myprojects/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://truongphan13.github.io/storelammoc</link>
+	Các phản hồi luận về: Ngừng Kinh Doanh Các Máy Khoan Tốt Nhất	</title>
+	<atom:link href="http://localhost/myprojects/wordpress/khuyen-mai/ngung-kinh-doanh-cac-may-khoan-tot-nhat/feed/" rel="self" type="application/rss+xml" />
+	<link>https://truongphan13.github.io/storelammoc/khuyen-mai/ngung-kinh-doanh-cac-may-khoan-tot-nhat/</link>
 	<description>Làm mộc</description>
 	<lastBuildDate>Thu, 22 Jul 2021 06:04:26 +0000</lastBuildDate>
 	<sy:updatePeriod>
