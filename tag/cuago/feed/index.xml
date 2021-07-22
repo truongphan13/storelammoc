@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cuago &#8211; STORE</title>
+	<atom:link href="http://localhost/myprojects/wordpress/tag/cuago/feed/" rel="self" type="application/rss+xml" />
+	<link>https://truongphan13.github.io/storelammoc</link>
+	<description>Làm mộc</description>
+	<lastBuildDate>Wed, 07 Jul 2021 07:51:07 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>CÁC LOẠI CƯA GỖ CẦM TAY PHỔ BIẾN</title>
+		<link>https://truongphan13.github.io/storelammoc/bai-viet/cac-loai-cua-go-cam-tay-pho-bien/</link>
+					<comments>https://truongphan13.github.io/storelammoc/bai-viet/cac-loai-cua-go-cam-tay-pho-bien/#respond</comments>
+		
+		<dc:creator><![CDATA[truongphan1395]]></dc:creator>
+		<pubDate>Wed, 07 Jul 2021 07:51:07 +0000</pubDate>
+				<category><![CDATA[Bài viết]]></category>
+		<category><![CDATA[baiviet]]></category>
+		<category><![CDATA[cuago]]></category>
+		<guid isPermaLink="false">https://truongphan13.github.io/storelammoc/?p=274</guid>
+
+					<description><![CDATA[Cưa gỗ cầm tay gần như là dụng cụ không &#8230; ]]></description>
+										<content:encoded><![CDATA[<div class="col-md-12 evo-article margin-bottom-10">
+<div class="article-details evo-toc-content">
+<p>Cưa gỗ cầm tay gần như là dụng cụ không thể thiếu đối với các em DIY .</p>
+<p>Tuy nhiên lại có quá nhiều loại khiến anh em phải thắc mắc công dụng , khác biệt và nên dùng loại nào thì phù hợp .</p>
+<p>Thichtulam sẽ phân tích 6 loại cưa tay phổ biến cho anh em .</p>
+<p>Anh em cung xem hình phía dưới để hiểu thêm nào .</p>
+<p><img src="https://bizweb.dktcdn.net/100/394/484/files/z2008586608694-e07f53b7f19c1297bd6f7643d1f05f38.jpg?v=1596538090564" data-thumb="original" /></p>
+</div>
+</div>
+<div class="col-md-12">
+<div class="evo-article-toolbar">
+<div class="evo-article-toolbar-left clearfix"></div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://truongphan13.github.io/storelammoc/bai-viet/cac-loai-cua-go-cam-tay-pho-bien/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
